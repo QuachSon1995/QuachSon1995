@@ -1,7 +1,7 @@
 Hello, I'm SonQuach. 
 I do open source! I'm a self-taught passionate developer from
 
-About me
+About me 
 
 💼 Fullstack Engineer
 
