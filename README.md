@@ -18,11 +18,7 @@ Skill
 🖥 Devops: Jenkins, Gitlab CICD, Ubuntu, Docker
 
 🛢 DATABASE: 
-  - NoSQL:
-    +  MongoDB
-  - SQL:
-    +  Sql Server
-    +  MySql
-    +  PostgreSql
+  - NoSQL: MongoDB
+  - SQL: Sql Server, MySql, PostgreSql
 
    
