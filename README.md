@@ -7,4 +7,18 @@ About me
 
 ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-💬 Ask me about anything here
+💬 Ask me about anything he
+
+Skill
+📎 BE: Nodejs, Nestjs 
+👤 FE: Angualar
+🖥 Devops: Jenkins, Gitlab CICD, Ubuntu, Docker
+🛢 DATABASE: 
+  - NoSQL:
+    +  MongoDB
+  - SQL:
+    +  Sql Server
+    +  MySql
+    +  PostgreSql
+
+   
