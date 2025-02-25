@@ -15,7 +15,7 @@ Skill
 
 👤 FE: Angualar
 
-🖥 Devops: Jenkins, Gitlab CICD, Ubuntu, Docker
+🖥 Devops: Jenkins, Gitlab CICD, [Ubuntu](https://github.com/QuachSon1995/linux), Docker
 
 🛢 DATABASE: 
   - NoSQL: MongoDB
