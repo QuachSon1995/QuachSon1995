@@ -10,9 +10,13 @@ About me
 💬 Ask me about anything he
 
 Skill
+
 📎 BE: Nodejs, Nestjs 
+
 👤 FE: Angualar
+
 🖥 Devops: Jenkins, Gitlab CICD, Ubuntu, Docker
+
 🛢 DATABASE: 
   - NoSQL:
     +  MongoDB
