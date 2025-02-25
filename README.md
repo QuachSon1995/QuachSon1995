@@ -11,7 +11,7 @@ About me
 
 Skill
 
-📎 BE: Nodejs, Nestjs 
+📎 BE: Nodejs,  [Nestjs](https://github.com/QuachSon1995/setup-nestjs)  
 
 👤 FE: Angualar
 
