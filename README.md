@@ -20,6 +20,7 @@ Skill
 🛢 DATABASE: 
   - NoSQL: MongoDB
   - SQL: Sql Server, MySql, PostgreSql
+
 📦 OTHER: 
   - N8N
 
