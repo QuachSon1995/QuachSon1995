@@ -24,6 +24,11 @@ Skill
 📦 OTHER: 
   - N8N
 
+📋 CLIPBOARD:
+  - Jira
+  - Trello
+  - Monday
+
 <p align="center">
   <a href="https://www.linkedin.com/in/quach-son/">
     <img src="https://img.shields.io/badge/sonquach-0A66C2?logo=linkedin&logoColor=white&style=flat&labelColor=0A66C2" alt="LinkedIn">
