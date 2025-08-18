@@ -1,13 +1,13 @@
-Hello, I'm SonQuach. 
-I do open source! I'm a self-taught passionate developer from
+# 👋 Hi there, I'm Son Quach  
 
-About me 
+💼 Fullstack Engineer | Open Source Enthusiast  
 
-💼 Fullstack Engineer
+I'm a self-taught and passionate developer who loves exploring new ideas and turning them into real projects.  
+I enjoy crafting clean and efficient solutions, especially with **TypeScript**, and often dive into fun type-level experiments.  
 
-❤️ I love writing TypeScript, and building fun experiments on type-level
+❤️ Open source is my playground — I love sharing knowledge and contributing to the community.  
 
-💬 Ask me about anything he
+💬 Feel free to reach out if you’d like to talk about **TypeScript, software architecture, or building side projects**.  
 
 Skill
 
