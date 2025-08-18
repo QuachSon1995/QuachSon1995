@@ -21,4 +21,11 @@ Skill
   - NoSQL: MongoDB
   - SQL: Sql Server, MySql, PostgreSql
 
-   
+<p align="center">
+  <a href="https://www.linkedin.com/in/quach-son/">
+    <img src="https://img.shields.io/badge/sonquach-0A66C2?logo=linkedin&logoColor=white&style=flat&labelColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@sonquach1828">
+    <img src="https://img.shields.io/badge/sonquach-FF0000?logo=youtube&logoColor=white&style=flat&labelColor=FF0000" alt="YouTube">
+  </a>
+</p>
