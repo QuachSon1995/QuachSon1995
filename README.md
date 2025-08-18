@@ -17,14 +17,14 @@ Skill
 
 🖥 Devops: Jenkins, [Gitlab CICD](https://www.youtube.com/watch?v=ZD9u9ugkDXI), [Ubuntu](https://github.com/QuachSon1995/linux), [Docker](https://github.com/QuachSon1995/linux/blob/main/docker.txt), [Nginx](https://github.com/QuachSon1995/linux/blob/main/nginx.txt), [Kong Gateway](https://github.com/QuachSon1995/kong_gateway), Podman, [Portainer](https://www.youtube.com/watch?v=n3iE-Z0bzcQ), [Ngrok](https://www.youtube.com/watch?v=rWHkoSs1eR8),
 
-🛢 DATABASE: 
+🛢 Database: 
   - NoSQL: MongoDB
   - SQL: Sql Server, MySql, PostgreSql
 
-📦 OTHER: 
+📦 Other: 
   - N8N
 
-📋 CLIPBOARD:
+📋 Clipboard:
   - Jira
   - Trello
   - Monday
