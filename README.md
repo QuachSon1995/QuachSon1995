@@ -15,11 +15,13 @@ Skill
 
 👤 FE: Angualar
 
-🖥 Devops: Jenkins, [Gitlab CICD](https://www.youtube.com/watch?v=ZD9u9ugkDXI), [Ubuntu](https://github.com/QuachSon1995/linux), [Docker](https://github.com/QuachSon1995/linux/blob/main/docker.txt), [Nginx](https://github.com/QuachSon1995/linux/blob/main/nginx.txt), [Kong Gateway](https://github.com/QuachSon1995/kong_gateway),
+🖥 Devops: Jenkins, [Gitlab CICD](https://www.youtube.com/watch?v=ZD9u9ugkDXI), [Ubuntu](https://github.com/QuachSon1995/linux), [Docker](https://github.com/QuachSon1995/linux/blob/main/docker.txt), [Nginx](https://github.com/QuachSon1995/linux/blob/main/nginx.txt), [Kong Gateway](https://github.com/QuachSon1995/kong_gateway), Podman, [Portainer](https://www.youtube.com/watch?v=n3iE-Z0bzcQ), [Ngrok](https://www.youtube.com/watch?v=rWHkoSs1eR8),
 
 🛢 DATABASE: 
   - NoSQL: MongoDB
   - SQL: Sql Server, MySql, PostgreSql
+📦 OTHER: 
+  - N8N
 
 <p align="center">
   <a href="https://www.linkedin.com/in/quach-son/">
